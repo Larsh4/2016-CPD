@@ -130,7 +130,7 @@ What is a language designers workbench? How is this approach to domain
 specific languages different from embedded or stand-alone languages?
 What are the relative merits of all these approaches?
 
-Team:?
+Team: Jasper Robeer, Marinus Oosters, Maxwell Hessey, Quiri Passchier, Chiel van Griethuijsen.
 
 #### OCaml
 
