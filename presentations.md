@@ -62,7 +62,12 @@ fairly straightforward to set up.
 What kind of language is Rust? What is the problem with aliasing? How
 does Rust's borrowing mechanism address this?
 
-Team:?
+Team:
+* Arian van Putten
+* Richard Schoonhoven
+* Tim Baanen
+* Adolfo Ochavia
+* Reinier Maas
 
 #### Elm
 
@@ -96,7 +101,7 @@ How does Scala combine functional and object-oriented programming?
 What are traits? What are case classes and pattern matching? How can
 you interface with Java?
 
-Team:?
+Team: Matthew, Carlos, (other people interested)
 
 #### Scala and lightweight modular staging
 
@@ -105,7 +110,7 @@ How is it used for embedding compilers in Scala? What DSLs are
 implemented in this style? How does it compare to other approaches to
 implementing DSLs that we have seen?
 
-Team:?
+Team: Jaspreet Singh, Daniël Stekelenburg, Toby Rufinus, Steven Both
 
 #### Rascal
 
@@ -128,7 +133,7 @@ Team:?
 What are C++ templates? What are they good for? What are their
 limitations?
 
-Team:?
+Team: Michiel Magendans, Robin Ganpat, Jelmer van Nuss, Hugo Heemskerk, Thomas Dirkse
 
 #### Logic programming in Prolog
 
