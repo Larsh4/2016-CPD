@@ -78,7 +78,7 @@ Team:
 * Arian van Putten
 * Richard Schoonhoven
 * Tim Baanen
-* Adolfo Ochavia
+* Adolfo Ochagavía
 * Reinier Maas
 
 #### Elm
