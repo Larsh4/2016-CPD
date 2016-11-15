@@ -133,7 +133,7 @@ Team:?
 What are C++ templates? What are they good for? What are their
 limitations?
 
-Team:?
+Team: Michiel Magendans, Robin Ganpat, Jelmer van Nuss, Hugo Heemskerk, Thomas Dirkse
 
 #### Logic programming in Prolog
 
