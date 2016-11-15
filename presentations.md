@@ -96,7 +96,7 @@ How does Scala combine functional and object-oriented programming?
 What are traits? What are case classes and pattern matching? How can
 you interface with Java?
 
-Team:?
+Team: Matthew, Carlos, (other people interested)
 
 #### Scala and lightweight modular staging
 
