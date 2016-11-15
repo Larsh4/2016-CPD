@@ -57,6 +57,18 @@ fairly straightforward to set up.
 
 ## Topics
 
+#### Swift 3.0
+
+What kind of language is Swift? How does it compare to older languages 
+such as Java or C#? How does Swift handle abstraction?  Other possible
+interesting topics for Swift may include closures, tuples, protocols, 
+extensions, API's to "embedded" objective-c, type inference, comparing 
+Haskell's Maybe type to Swifts Optional enum, garbage collection vs. 
+automatic reference counting, safety in regards to memory leaks or memory
+cycles, constructors vs. initializers and potentially more.
+
+Team: Teun Kooijman, Jasper van Noordenburg & anyone else interested in discovering Swift
+
 #### Rust
 
 What kind of language is Rust? What is the problem with aliasing? How
