@@ -105,7 +105,7 @@ How is it used for embedding compilers in Scala? What DSLs are
 implemented in this style? How does it compare to other approaches to
 implementing DSLs that we have seen?
 
-Team:?
+Team: Jaspreet Singh, Daniël Stekelenburg, Toby Rufinus, Steven Both
 
 #### Rascal
 
