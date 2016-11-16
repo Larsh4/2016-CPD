@@ -96,7 +96,9 @@ languages for front-end development such as Javascript? What are
 algebraic effects and effect handlers? What are some of the key
 features of the type system?
 
-Team:?
+Team:
+* Martijn Fleuren 
+* ... (Anyone else?)
 
 #### NetKAT
 
