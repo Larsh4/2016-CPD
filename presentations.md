@@ -140,7 +140,12 @@ What is OCaml's module system? How is it different from Haskell's?
 What are signatures and functors? What is the difference between
 generative and applicative functors?
 
-Team:?
+Team:
+* Mattijs van de Kuilen
+* Glenn Stewart
+* Jannes Elings
+* Jan Posthoorn
+* Lars Hartmann
 
 #### Template programming in C++
 
